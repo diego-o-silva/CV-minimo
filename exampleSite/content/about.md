@@ -1,6 +1,6 @@
 ---
-title: About
-description: What is Hugo?
+title: Sobre Mim
+description: Biólogo CRBio3 - Msc Biologia Animal - UFRGS6
 ---
 
 Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
